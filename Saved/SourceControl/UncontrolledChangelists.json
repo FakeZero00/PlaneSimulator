@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal_Project/PlaneSimulator/Content/BP/Controller/IA_Yaw_Pitch.uasset",
+				"D:/Unreal_Project/PlaneSimulator/Content/BP/Controller/IMC_Aircraft.uasset",
+				"D:/Unreal_Project/PlaneSimulator/Content/BP/Controller/BP_PlaneController.uasset",
+				"D:/Unreal_Project/PlaneSimulator/Content/BP/BP_Plane.uasset",
+				"D:/Unreal_Project/PlaneSimulator/Content/BP/Controller/IA_Roll.uasset",
 				"D:/Unreal/Unreal_Project/PlaneSimulator/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Unreal/Unreal_Project/PlaneSimulator/Content/_GENERATED/sjlim/Plane.uasset",
 				"D:/Unreal/Unreal_Project/PlaneSimulator/Content/_GENERATED/sjlim/Propella.uasset",
