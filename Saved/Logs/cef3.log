@@ -1,4 +1,10 @@
-[20272:9736:0407/000633.231:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[20272:9736:0407/000633.263:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[29536:16716:0407/000636.300:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-11C23DE48C2DF83F738FCCD161BD4D8D will be ignored
-[20272:9736:0407/042843.067:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[16668:17072:0408/003638.275:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16668:17072:0408/003638.326:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14748:15148:0408/003646.743:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3ABF9FD50EB0891257DF2AA7905D227D will be ignored
+[16668:15028:0408/003647.108:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[16668:17072:0408/003647.160:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[16668:17072:0408/003647.160:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[16668:17072:0408/003647.160:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[16668:17072:0408/003647.160:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[16668:15028:0408/003647.175:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[16668:17072:0408/030624.714:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
